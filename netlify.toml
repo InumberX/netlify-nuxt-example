@@ -5,7 +5,7 @@
 
 [[redirects]]
   from = "https://develop--netlify-nuxt-example.netlify.app/*"
-  to = "https://develop--netlify-nuxt-example.afterworks.jp/:splat"
+  to = "https://develop.netlify-nuxt-example.afterworks.jp/:splat"
   status = 301
   force = true
 
