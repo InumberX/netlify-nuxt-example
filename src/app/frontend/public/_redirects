@@ -1,0 +1,2 @@
+https://develop--netlify-nuxt-example.netlify.app/* https://develop.netlify-nuxt-example.afterworks.jp/:splat 301!
+https://netlify-nuxt-example.netlify.app/* https://netlify-nuxt-example.afterworks.jp/:splat 301!
