@@ -2,15 +2,3 @@
   base = "src/app/frontend"
   publish = "dist"
   command = "yarn build"
-
-[[redirects]]
-  from = "https://develop--netlify-nuxt-example.netlify.app/*"
-  to = "https://develop.netlify-nuxt-example.afterworks.jp/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://netlify-nuxt-example.netlify.app/*"
-  to = "https://netlify-nuxt-example.afterworks.jp/:splat"
-  status = 301
-  force = true
