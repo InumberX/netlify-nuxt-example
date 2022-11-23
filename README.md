@@ -41,4 +41,3 @@ Execute the following command to stop the container.
 ```shell
 docker compose down
 ```
-
