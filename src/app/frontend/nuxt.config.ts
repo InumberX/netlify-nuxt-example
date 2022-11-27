@@ -15,6 +15,16 @@ export default defineNuxtConfig({
   nitro: {
     preset: 'netlify',
   },
+  app: {
+    head: {
+      meta: [
+        {
+          name: 'robots',
+          content: 'noindex , nofollow',
+        },
+      ],
+    },
+  },
   modules: [
     [
       BasicAuth,
