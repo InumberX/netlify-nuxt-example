@@ -20,7 +20,7 @@ export default defineNuxtConfig({
       meta: [
         {
           name: 'robots',
-          content: 'noindex , nofollow',
+          content: 'noindex, nofollow',
         },
       ],
     },
